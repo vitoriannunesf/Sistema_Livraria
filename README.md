@@ -1,4 +1,5 @@
 # Sistema de Livraria
+Autor: Vitoria Nunes Farias
 
 Sistema desktop desenvolvido em Typescript para livraria
 
