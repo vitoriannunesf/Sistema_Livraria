@@ -1,5 +1,7 @@
 # Sistema de Livraria
-Autor: Vitoria Nunes Farias
+Autor: Vitoria Nunes
+
+Licença: MIT
 
 Sistema desktop desenvolvido em Typescript para livraria
 
